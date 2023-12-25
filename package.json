@@ -1,0 +1,14 @@
+{
+  "name": "numbervisionaryweb-project",
+  "version": "1.0.0",
+  "description": "A website which takes in a hand-drawn or submitted number from the user and uses ML to determine the digit/number.",
+  "main": "frontend/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Dao",
+  "license": "ISC",
+  "dependencies": {
+    "flask": "^0.2.10"
+  }
+}
